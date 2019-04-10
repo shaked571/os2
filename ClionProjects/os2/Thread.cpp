@@ -20,3 +20,6 @@ voidFn Thread::getFunction(){
     return function;
 }
 
+void * foo() {
+
+}
